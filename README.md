@@ -138,7 +138,7 @@ Final results are stored at 'hidden_22_pred.npy'. (Estimate 2 hours)
 Test the model on the validation set: (Estimate 1 hour)
 
    ```bash
-   python mask_pred.py --val true
+   python mask_pred.py --val
    ```
 
 ---
