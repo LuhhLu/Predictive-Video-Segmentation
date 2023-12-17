@@ -118,7 +118,7 @@ def main():
     parser = argparse.ArgumentParser(description='Train UNet with custom settings')
     parser.add_argument('--val', action='store_true', help='Enable validation (default: enabled)')
     parser.add_argument('--no-val', action='store_false', dest='val', help='Disable validation')
-    parser.add_argument('--edgemargin', type=int, default=100, help='Edge margin for anomaly detection')
+    parser.add_argument('--edge_margin', type=int, default=100, help='Edge margin for anomaly detection')
     parser.add_argument('--threshold', type=int, default=80, help='Threshold for distance calculation')
     parser.set_defaults(val=True)
     args = parser.parse_args()
