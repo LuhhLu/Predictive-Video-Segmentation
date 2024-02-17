@@ -1,6 +1,6 @@
 # Video Segmentation
 
-This Project is for Predicting video segmentation of 22nd frame condition on first 11 frames.
+This Project is for Predicting video segmentation of 22nd frame condition on first 11 frames. Result Slides: https://www.figma.com/proto/DQLuQ3slIPkKiGM4axxDFD/FProject?node-id=1-3&t=dN3eV11w9K2J3QLq-1&mode=design
 
 ## Getting Started
 
