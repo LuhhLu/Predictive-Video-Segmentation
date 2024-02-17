@@ -1,6 +1,6 @@
 # Video Segmentation
 
-This Project is for NYU DL23FL Final Project. Predicting video segmentation of 22nd frame condition on first 11 frames.
+This Project is for Predicting video segmentation of 22nd frame condition on first 11 frames.
 
 ## Getting Started
 
